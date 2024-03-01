@@ -18,6 +18,6 @@
 #
 ---
 board:
-  - nice_nano_v2
+  - adafruit_kb2040
 shield:
   - chocv
