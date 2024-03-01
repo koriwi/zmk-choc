@@ -18,6 +18,6 @@
 #
 ---
 board:
-  - adafruit_kb2040
+  - sparkfun_pro_micro_rp2040
 shield:
   - chocv
